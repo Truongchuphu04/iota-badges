@@ -1,0 +1,8 @@
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin: 0; padding: 1rem; background: #f7f7fb; color: #111 }
+.app { max-width: 900px; margin: 0 auto }
+header h1 { margin: 0 }
+.issue-form { display: grid; gap: .5rem; margin-top: 1rem }
+.issue-form label { display: flex; flex-direction: column; font-size: .95rem }
+.issue-form input, .issue-form textarea { padding: .5rem; border: 1px solid #ddd; border-radius: 6px }
+.issue-form button { margin-top: .5rem; padding: .6rem 1rem; border-radius: 6px; border: 0; background: #2563eb; color: white }
+.result { margin-top: .75rem; background: #0f172a; color: #e6eef8; padding: .75rem; border-radius: 6px; overflow:auto }

@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/eaebe_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_854a3f6c._.js",
+    "static/chunks/eaebe_next_dist_compiled_react-dom_b50a0976._.js",
+    "static/chunks/eaebe_next_dist_compiled_react-server-dom-turbopack_cc7d01f9._.js",
+    "static/chunks/eaebe_next_dist_compiled_next-devtools_index_4b7748d7.js",
+    "static/chunks/eaebe_next_dist_compiled_448735c0._.js",
+    "static/chunks/eaebe_next_dist_client_31ddb02e._.js",
+    "static/chunks/eaebe_next_dist_54c0922c._.js",
+    "static/chunks/eaebe_@swc_helpers_cjs_13b1b6a6._.js",
+    "static/chunks/iota-badges_community_a0ff3932._.js",
+    "static/chunks/turbopack-iota-badges_community_ebd1da6e._.js"
+  ]
+}

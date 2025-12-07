@@ -1,0 +1,24 @@
+{
+  "name": "iota-ts",
+  "version": "0.1.0",
+  "description": "IOTA badges example (TypeScript)",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "issue:badge": "ts-node src/issueBadge.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["iota","badges","typescript"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@iota/client": "^2.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.0.0"
+  }
+}
